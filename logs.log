@@ -1,0 +1,21 @@
+{
+  "average_metrics": {
+    "rouge_1": {
+      "precision": 57.4,
+      "recall": 58.2,
+      "f1": 61.5
+    },
+    "rouge_2": {
+      "precision": 48.7,
+      "recall": 43.1,
+      "f1": 45.7
+    },
+    "rouge_l": {
+      "precision": 64.2,
+      "recall": 57.0,
+      "f1": 60.4
+    },
+    "bleu": 19.8,
+    "perplexity": 23.5
+  }
+}
